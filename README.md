@@ -1,5 +1,5 @@
 # Slot Machine Game
-Este é um simples jogo de slot machine implementado em Python usando a biblioteca Pygame. O jogo simula uma máquina caça-níqueis com uma interface gráfica básica. O usuário pode apostar em várias linhas e girar a máquina para ver se ganha alguma coisa.
+Este é um simples jogo de slot machine implementado em Python usando a biblioteca Pygame. O jogo simula uma máquina caça-níqueis. O usuário pode apostar em várias linhas e girar a máquina para ver se ganha alguma coisa.
 
 # Instalação
 Certifique-se de ter Python 3 instalado. Você também precisará instalar a biblioteca Pygame se ainda não a tiver. Você pode instalar o Pygame usando pip:
