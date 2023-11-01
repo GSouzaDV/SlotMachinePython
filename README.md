@@ -30,3 +30,6 @@ O jogo tem algumas configurações personalizáveis:
 
 Sinta-se à vontade para ajustar essas configurações no código para personalizar o jogo de acordo com suas preferências.
 Se desejar contribuir para este projeto, fique à vontade para abrir uma issue ou enviar um pull request.
+
+# Contato
+Se você quiser entrar em contato comigo, pode me enviar um e-mail em gustavohsouzajf@gmail.com
