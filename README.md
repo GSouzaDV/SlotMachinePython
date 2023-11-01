@@ -8,7 +8,7 @@ pip install pygame
 
 Clone este repositório em sua máquina local usando:
 
-git clone https://github.com/seu_usuario/nome_do_repositorio.git
+git clone https://github.com/GSouzaDV/SlotMachinePython
 
 # Como Jogar
 Execute o arquivo main.py e siga as instruções no terminal. Você será solicitado a depositar um valor, escolher o número de linhas para apostar e o valor da aposta. Aperte 'Enter' para girar a slot machine e descobrir se você ganhou alguma coisa. Você pode sair do jogo pressionando 's'.
